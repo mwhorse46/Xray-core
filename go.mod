@@ -13,8 +13,8 @@ require (
 	github.com/pires/go-proxyproto v0.6.2
 	github.com/quic-go/quic-go v0.32.0
 	github.com/refraction-networking/utls v1.2.2
-	github.com/sagernet/sing v0.1.6
-	github.com/sagernet/sing-shadowsocks v0.1.1-0.20230202035033-e3123545f2f7
+	github.com/sagernet/sing v0.2.0
+	github.com/sagernet/sing-shadowsocks v0.2.0
 	github.com/sagernet/wireguard-go v0.0.0-20221116151939-c99467f53f2c
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
 	github.com/stretchr/testify v1.8.1
@@ -22,10 +22,10 @@ require (
 	github.com/xtls/go v0.0.0-20230107031059-4610f88d00f3
 	github.com/xtls/reality v0.0.0-20230217102704-085bdf2104d3
 	go.starlark.net v0.0.0-20230128213706-3f75dec8e403
-	golang.org/x/crypto v0.6.0
-	golang.org/x/net v0.7.0
+	golang.org/x/crypto v0.7.0
+	golang.org/x/net v0.8.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.5.0
+	golang.org/x/sys v0.6.0
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.28.1
 	gvisor.dev/gvisor v0.0.0-20220901235040-6ca97ef2ce1c
@@ -51,7 +51,7 @@ require (
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/exp v0.0.0-20230213192124-5e25df0256eb // indirect
 	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/text v0.8.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/genproto v0.0.0-20230209215440-0dfe4f8abfcc // indirect
